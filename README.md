@@ -1,6 +1,3 @@
-# Marketing_Segmentation
-Divide customers in groups based on collected data, for targeted marketing ad campaign.
-
 To run this project successfully you need to have following softwares installed:
  - Anaconda 
  - Jupyter Notebook
