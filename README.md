@@ -10,8 +10,8 @@ Python libraries needed for this project are:
  - Sklearn
  
  You can install the missing libraries by following commands in 'Anaconda Prompt':
- conda install -c anaconda pandas
- conda install -c anaconda numpy
- conda install -c conda-forge matplotlib
- conda install -c anaconda seaborn
- conda install -c anaconda scikit-learn
+  - conda install -c anaconda pandas
+  - conda install -c anaconda numpy
+  - conda install -c conda-forge matplotlib
+  - conda install -c anaconda seaborn
+  - conda install -c anaconda scikit-learn
